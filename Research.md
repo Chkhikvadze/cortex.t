@@ -1,5 +1,30 @@
 
 
+##  Tasks
+- [ ] Define how system going to work
+- [ ] Search Web scrapper codes on Python or any other language
+    - [ ] Parse Libraries
+    - [ ] Tweeter scrapper libraries
+- [ ] Explore Text Prompting Validator and Miner
+    - [ ] Read and analyse [Walkthrough of Text Prompting Subnet ](https://docs.bittensor.com/subnets/code-walkthrough-text-prompting)
+    - [x] Run code on local 
+       
+        - [ ] Debug Code and see all details step by step
+        - [x] Prompt for summary
+        - [x] Prompt for question
+        - [x] Prompt for answer
+        - [x] Initialize the metagraph
+        - [x] Create axon server
+        - [x] Create dendrite client
+        - [ ] Initialize the reward model
+        - [x] Subnet validator run summary
+        - [x] Subnet validator run details
+        - [x] Common actions in all prompt runs
+        - [x] Create synapse object
+        - [x] Send the prompt
+        - [ ] Send updated weights to subtensor
+
+- [ ] Search other examples of validators on Bittensor
 
 # Objectives
 
@@ -70,32 +95,7 @@ Implementation: Create a scoring mechanism that evaluates the accuracy of genre/
 - **Ethical and Legal Compliance**: Confirm compliance with legal standards and ethical web scraping practices.
 
 
-### Tasks
-- [ ] Define how system going to work
-- [ ] Search Web scrapper codes on Python or any other language
-    - [ ] Parse Libraries
-    - [ ] Tweeter scrapper libraries
-- [ ] Explore Text Prompting Validator and Miner
-    - [ ] Read and analyse [Walkthrough of Text Prompting Subnet ](https://docs.bittensor.com/subnets/code-walkthrough-text-prompting)
-    - [x] Run code on local 
-       
-        - [ ] Debug Code and see all details step by step
-        - [x] Prompt for summary
-        - [x] Prompt for question
-        - [x] Prompt for answer
-        - [x] Initialize the metagraph
-        - [x] Create axon server
-        - [x] Create dendrite client
-        - [ ] Initialize the reward model
-        - [x] Subnet validator run summary
-        - [x] Subnet validator run details
-        - [x] Common actions in all prompt runs
-        - [x] Create synapse object
-        - [x] Send the prompt
-        - [ ] Send updated weights to subtensor
 
-
-- [ ] Search other examples of validators on Bittensor
 
 
 
