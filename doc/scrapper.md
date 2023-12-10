@@ -70,27 +70,6 @@
 - **Data Integrity**: The original format and content of the tweets, including any hashtags, mentions, or media, should be maintained.
 
 
-
-### Themes
-1. **Current Events**: "What are the latest news updates on the presidential election?"
-2. **Financial Markets**: "Show me recent Twitter discussions about the stock market crash."
-3. **Technology Trends**: "Find the latest tweets on emerging AI technologies."
-4. **Health and Medicine**: "Gather information on recent advancements in COVID-19 vaccines."
-5. **Entertainment and Media**: "What are people saying about the new Marvel movie on social media?"
-6. **Sports Updates**: "Collect recent opinions about the NBA finals from sports analysts on Twitter."
-7. **Environmental Issues**: "Show discussions about the impact of climate change in Europe over the past month."
-8. **Celebrity News**: "Find tweets about the latest album release by Taylor Swift."
-9. **Political Opinions**: "What are the public's reactions to the new immigration policy announced yesterday?"
-10. **Economic Analysis**: "Gather expert tweets on the implications of the latest Federal Reserve decision."
-11. **Cultural Events**: "Find social media posts about the reactions to the Oscars."
-12. **Scientific Discoveries**: "Show recent tweets from scientists about the Mars Rover findings."
-13. **Travel and Tourism**: "Collect user experiences and tips about traveling in Japan."
-14. **Educational Insights**: "What are the latest discussions about online education vs. traditional schooling?"
-15. **Fashion and Lifestyle**: "Gather the latest trends in sustainable fashion from influencers on Twitter."
-
-
-
-
 ### Tools
 
 - [Twitter Scraper](https://github.com/bisguzar/twitter-scraper)
