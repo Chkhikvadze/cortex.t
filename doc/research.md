@@ -1,30 +1,19 @@
 
+I want you to come up with a list of 3 other validators we can start creating based off the text image and embeddings examples.
+Something that we can outsource to miners and will provide value to the validators or clients
+like predictions might be a good idea
+or scraping data (tweets) 
+or internet data
+or music
+something that we can implement a miner class and a validator and scoring mechanism for
 
-##  Tasks
-- [ ] Define how system going to work
-- [ ] Search Web scrapper codes on Python or any other language
-    - [ ] Parse Libraries
-    - [ ] Tweeter scrapper libraries
-- [ ] Explore Text Prompting Validator and Miner
-    - [ ] Read and analyse [Walkthrough of Text Prompting Subnet ](https://docs.bittensor.com/subnets/code-walkthrough-text-prompting)
-    - [x] Run code on local 
-       
-        - [ ] Debug Code and see all details step by step
-        - [x] Prompt for summary
-        - [x] Prompt for question
-        - [x] Prompt for answer
-        - [x] Initialize the metagraph
-        - [x] Create axon server
-        - [x] Create dendrite client
-        - [ ] Initialize the reward model
-        - [x] Subnet validator run summary
-        - [x] Subnet validator run details
-        - [x] Common actions in all prompt runs
-        - [x] Create synapse object
-        - [x] Send the prompt
-        - [ ] Send updated weights to subtensor
 
-- [ ] Search other examples of validators on Bittensor
+that, but how can we verify on the validator side that it's correct?
+
+
+
+
+
 
 # Objectives
 
@@ -81,38 +70,9 @@ Implementation: Create a scoring mechanism that evaluates the accuracy of genre/
 
 
 
-### 1. **Web Scraper Validator**
-
-#### Deep Dive:
-- **Miner's Task**: Scrape data from the web for various analytical purposes.
-- **Data Sources**: Websites, online databases, news sites, etc.
-- **Scraping Objectives**: Data for market research, academic research, competitor analysis, etc.
-
-#### Validation Strategies:
-- **Data Completeness and Integrity**: Check if scraped data is complete and uncorrupted.
-- **Accuracy and Relevance**: Verify accuracy of data against trusted sources and its relevance to scraping objectives.
-- **Timeliness**: Ensure data is up-to-date, especially for time-sensitive analyses.
-- **Ethical and Legal Compliance**: Confirm compliance with legal standards and ethical web scraping practices.
 
 
-
-
-
-
-
-### 2. **Predictive Analytics Validator for Market Trends**
-
-#### Deep Dive:
-- **Miner's Task**: Gather and analyze financial data to predict market trends.
-- **Data Sources**: Stock prices, financial news, market reports, economic indicators, etc.
-- **Predictive Models**: Use of machine learning models for predictions.
-
-#### Validation Strategies:
-- **Historical Data Comparison**: Compare predictions with actual historical market outcomes.
-- **Model Performance Metrics**: Utilize metrics like Mean Absolute Error, R-squared, etc., for evaluating prediction accuracy.
-- **Consistency Check**: Assess consistency of predictions over time for stability and reliability.
-
----
+----------------------------------------
 
 ### 3. **Social Media Content Analysis Validator**
 
@@ -128,14 +88,6 @@ Implementation: Create a scoring mechanism that evaluates the accuracy of genre/
 
 ---
 
-### 4. **Music Classification and Recommendation Validator**
 
-#### Deep Dive:
-- **Miner's Task**: Classify music and develop recommendation algorithms.
-- **Data Sources**: Music tracks, metadata (genre, artist, lyrics), user listening habits.
-- **Classification and Recommendation Algorithms**: Genre classification, mood analysis, collaborative filtering for recommendations.
+---
 
-#### Validation Strategies:
-- **Genre/Mood Accuracy**: Compare classifications with database of tracks with known genres/moods.
-- **Recommendation Relevance**: Evaluate relevance of recommendations using user feedback or test groups.
-- **Novelty and Diversity**: Ensure recommendations include novel and diverse selections, not just popular tracks.

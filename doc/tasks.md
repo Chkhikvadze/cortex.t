@@ -1,0 +1,70 @@
+##  Tasks
+- [ ] Define how system going to work
+    - [ ] What product we are going to build
+    - [ ] User story
+    - [ ] Scrocing System
+    - [ ] Reward System
+
+
+- [ ] Search Web scrapper codes on Python or any other language
+    - [x] Parse Libraries
+    - [x] Tweeter scrapper libraries
+- [ ] Search other bittensor validators
+    - [x] [Bittensor validators list](https://bittensor.org/bittensor-validators-list/)
+    - [x] [Bittensor Guru](https://bittensor.guru/)
+    - [ ] [Bittensor Model Fine-tuning](https://github.com/salahawk/
+    bittensor-model-finetune)
+    - [x] Taostat [](https://docs.taostats.io/neuron.html)
+        - [ ] [Verify Validator from](https://docs.taostats.io/verify_signature.html)
+        - [ ] [How to train an LLM?](https://docs.taostats.io/rlhf.html)
+        - [ ] [Neurons](https://docs.taostats.io/neuron.html)
+        - [ ] [Fine Tuning Examples/Mining](https://docs.taostats.io/Fine_tuning.html)
+            - [ ] [Code](https://github.com/opentensor/clm_model_tuning)
+- [ ] Explore Text Prompting Validator and Miner
+    - [ ] Read and analyse [Walkthrough of Text Prompting Subnet ](https://docs.bittensor.com/subnets/code-walkthrough-text-prompting)
+        - [x] Prompt for summary
+        - [x] Prompt for question
+        - [x] Prompt for answer
+        - [x] Initialize the metagraph
+        - [x] Create axon server
+        - [x] Create dendrite client
+        - [x] Initialize the reward model
+        - [x] Subnet validator run summary
+        - [x] Subnet validator run details
+        - [x] Common actions in all prompt runs
+        - [x] Create synapse object
+        - [x] Send the prompt
+        - [x] Send updated weights to subtensor
+    - [x] Run code on local 
+        - [x] Debug Code and see all details step by step
+        - [ ] Details analyse forward class
+        - [ ] Validator Class
+        - [ ] Reward Class
+            - [ ] Reward Weights
+            - [ ] Reward Models
+    - [ ] [Incentivizing Intelligence: The Bittensor Approach](https://ai-secure.github.io/DMLW2022/assets/papers/6.pdf)
+
+- [x] Search other examples of validators on Bittensor
+- [ ] How do you envision it? Client uploads data test, miners do some task with the dataset, and how do validators score it?
+- [ ] How could we share the same global state but have each miner train a specific model layer or gradient or something?
+- [ ] Bittensor resources
+    - [ ] [Bittensor Validators like Neural Internet are Pioneering Decentralized AI](https://medium.com/@chilltensor/bittensor-validators-like-neural-internet-are-pioneering-decentralized-ai-b61c4b00cc18)
+    - [ ] Opensource bittensor ChatGPT https://github.com/crazydevlegend/bittensor-chatgpt
+- [ ] Bittensor Fine-Tuning
+    - [ ] https://docs.taostats.io/Fine_tuning.html
+    - [ ] https://github.com/opentensor/clm_model_tuning?tab=readme-ov-file
+    - [ ] https://github.com/salahawk/bittensor-model-finetune
+    - [ ] https://github.com/nezamtrm/GPU-parllelism-for-finetuning-huggingface-NLP-models-on-bittensor-dataset
+- [] (Bittensor: The LLM Model That Cryptocurrency Built)[https://www.youtube.com/watch?v=lNACoEOEu_A]
+- [ ] (Exploring Bittensor's New Subnets: A Deep Dive)[https://flagship.fyi/outposts/ai-crypto/
+exploring-bittensors-new-subnets-a-deep-dive/]
+    - [x] Root
+    - [x] Subnet 2 - Text Generation
+    - [x] Subnet 3 - Machine Translation
+    - [x] Subnet 4 - Multi Modality
+    - [x] Subnet 5 - Image Generation
+    - [x] Subnet 6 - Storage
+    - [x] Subnet 7 - Price Prediction
+    - [x] Subnet 8 - Pre Training
+    - [x] Subnet 9 - Map Reduce
+    - [x] Subnet 10 - Text Training
