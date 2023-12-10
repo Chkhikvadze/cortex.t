@@ -93,10 +93,10 @@
 
 ### Tools
 
-[Twitter Scraper](https://github.com/bisguzar/twitter-scraper)
-[A simple and unlimited Twitter scraper with python.](https://github.com/Altimis/Scweet)
-[](https://github.com/n0madic/twitter-scraper)
-[Web Scraping Twitter Data with Python & Selenium](https://www.scrapingdog.com/blog/scrape-twitter/)
+- [Twitter Scraper](https://github.com/bisguzar/twitter-scraper)
+- [A simple and unlimited Twitter scraper with python.](https://github.com/Altimis/Scweet)
+- [Scrapper](https://github.com/n0madic/twitter-scraper)
+- [Web Scraping Twitter Data with Python & Selenium](https://www.scrapingdog.com/blog/scrape-twitter/)
 
 
 

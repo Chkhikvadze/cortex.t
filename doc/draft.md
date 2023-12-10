@@ -165,3 +165,14 @@ If your application involves users providing audio files or requesting the gener
 - **Scalability**: Choose tools and infrastructure that can scale according to the number of users and the size of the audio files being processed or generated.
 
 By selecting the right combination of these tools, you can effectively handle user-provided audio files and generate audio files in response to user requests in your application.
+
+
+
+
+# LLms
+
+https://huggingface.co/datasets/Defalt-404/Bittensor_validator
+https://huggingface.co/cerebras/btlm-3b-8k-base
+https://huggingface.co/OpenAssistant/reward-model-deberta-v3-large-v2
+https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-7B-Reward
+https://huggingface.co/NousResearch/Nous-Hermes-2-Vision-Alpha#nous-hermes-2-vision---mistral-7b
