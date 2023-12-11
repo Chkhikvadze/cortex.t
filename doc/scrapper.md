@@ -21,6 +21,7 @@
   - **Contextual Accuracy**: Assess if the tweets are contextually relevant to the query. For instance, the same keyword might have different meanings in different contexts.
   - **User-Specified Criteria**: If the query specifies tweets from certain users or during a specific event, verify that the data matches these criteria.
 
+
 ### 2. **Completeness**
 - **Definition**: Completeness measures whether the dataset includes all tweets that fit the query parameters. This involves both the breadth (variety of sources) and depth (coverage within each source) of the data.
 - **Implementation**:
